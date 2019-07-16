@@ -4247,10 +4247,10 @@
     "@types/react-dom" "*"
     "@types/react-transition-group" "*"
 
-"@types/react-syntax-highlighter@10.1.0":
-  version "10.1.0"
-  resolved "https://registry.yarnpkg.com/@types/react-syntax-highlighter/-/react-syntax-highlighter-10.1.0.tgz#9c534e29bbe05dba9beae1234f3ae944836685d4"
-  integrity sha512-dF49hC4FZp1dIKyzacOrHvqMUe8U2IXyQCQXOcT1e6n64gLBp+xM6qGtPsThIT9XjiIHSg2W5Jc2V5IqekBfnA==
+"@types/react-syntax-highlighter@10.2.1":
+  version "10.2.1"
+  resolved "https://registry.yarnpkg.com/@types/react-syntax-highlighter/-/react-syntax-highlighter-10.2.1.tgz#b0f75c22cbe7d12104581648348d91d3cd7f13fa"
+  integrity sha512-M2BAOiiQ2KDkCiuhO1UxAsSNfrSegUfXL1MabRggOoqJoPpaoSuTxGF+TgLuAjMEVW8dJDtp7WpBjjRLMxWgrQ==
   dependencies:
     "@types/react" "*"
 
